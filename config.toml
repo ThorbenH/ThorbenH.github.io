@@ -19,7 +19,7 @@ paginate = 5 # number of posts per page
     title = "Thorben Online"
     # subtitle = "todo"
     keywords = ""
-    copyright = "All content&nbsp; <a href='https://creativecommons.org/licenses/by-sa/4.0/' target = '_blank' >CC-BY-SA</a>"
+    copyright = "All content&nbsp; <a href='https://creativecommons.org/licenses/by-sa/4.0/' target = '_blank' >CC-BY-SA</a> Theme & License:&nbsp; <a href='https://github.com/panr/hugo-theme-hello-friend/blob/master/LICENSE.md' target = '_blank' >hello-friend</a>"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
